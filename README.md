@@ -7,4 +7,5 @@ This script works on the live camera where the image is extracted based on frame
 ## Technologies Used
 
 Python 
+
 Open Cv
